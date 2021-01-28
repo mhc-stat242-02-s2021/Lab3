@@ -44,7 +44,7 @@ soap %>%
 
 ```
 
-#### 3. Conduct a test of the claim that the "Antibacterial Soap", "Soap", and "Water" methods are equally effective.
+#### 3. Conduct a test of the claim that the "Alcohol Spray" is as effective as "Antibacterial Soap", "Soap", and "Water" methods are, on average.
 
 ```{r}
 
